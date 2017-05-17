@@ -1,0 +1,14 @@
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+header {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    margin-top: 1.2em;
+}
